@@ -13,7 +13,7 @@
 
 	<section class="widget sidebar-foot">
         <ul class="widget-list">
-            <li>Theme <a rel="nofollow" target="_blank" href="https://github.com/memset0/typecho-theme-ringo">Ringo</a> by <a  target="_blank" href="https://memset0.cn">memset0</a></li>
+            <li>Theme <a rel="nofollow" target="_blank" href="https://github.com/TRSWNCA/typecho-theme-ringo-next">RingoNext</a> by <a  target="_blank" href="https://memset0.cn">memset0</a> and <a target="_blank" href="https://blog.trswnca.top"> TRSWNCA </a></li>
             <li>Proudly powered by <a rel="nofollow" target="_blank" href="http://www.typecho.org">Typecho</a></li>
         </ul>
     </section>

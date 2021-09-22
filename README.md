@@ -2,11 +2,13 @@
 
 一个朴素的 Typecho 主题，灵感及配色来自于 Mikato 的 Journal 主题。自带 Highlight.js 并有配套的 LaTeX 插件支持。
 
+源于 @memset0，自己做了修改。
+
 ### Demo
 
-可以直接前往 [memset0.cn](//memset0.cn) 查看效果。
+可以直接前往 [trswnca.top](//blog.trswnca.top) 查看效果。
 
-![](https://i.loli.net/2019/07/12/5d2870a9c84b067831.png)
+![](https://i.loli.net/2021/09/22/VJk426hMQaGgtLl.png)
 
 ### 推荐插件
 
@@ -25,4 +27,3 @@ LaTeX 的支持需要使用上面的 KaTeX 插件，或使用别人开发的插�
 
 经过尝试无法解决的问题可以直接提 issue 。
 
-手机端的适配还在咕咕咕。
