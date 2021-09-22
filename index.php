@@ -19,7 +19,6 @@ $this->need('header.php');
 			<ul class="post-meta">
 				<li><time datetime="<?php $this->date('c'); ?>" itemprop="datePublished"><?php $this->date(); ?></time></li>
 				<li><?php $this->category(','); ?></li>
-				<li itemprop="interactionCount"><a href="<?php $this->permalink() ?>#comments"><?php $this->commentsNum('0 comment', '1 comment', '%d comments'); ?></a></li>
 			</ul>
             <div class="post-content" itemprop="articleBody">
 				<?php $this->content('READ MORE'); ?>
