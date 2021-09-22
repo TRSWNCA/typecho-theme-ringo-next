@@ -3,7 +3,7 @@
 
 <div class="col-12" id="main" role="main">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-        <h1 class="post-title" itemprop="name headline"><a itemprop="url" href="<?php $this->permalink() ?>"><?php $this->title() ?></a></h1>
+        <h1 class="post-title post-title-atpage" itemprop="name headline"><a itemprop="url" href="<?php $this->permalink() ?>"><?php $this->title() ?></a></h1>
         <div class="post-content" itemprop="articleBody">
             <?php $this->content(); ?>
         </div>

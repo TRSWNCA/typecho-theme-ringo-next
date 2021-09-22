@@ -26,10 +26,11 @@ a:hover,a:active {
 }
 
 p {
-	line-height: 1.75;
+	line-height: 2;
+	font-size: 18px;
 	display: block;
 	margin-block-start: 8px;
-	margin-block-end: 8px;
+	margin-block-end: 12px;
 	margin-inline-start: 0px;
 	margin-inline-end: 0px;
 }
@@ -190,6 +191,8 @@ textarea {
 }
 
 .post-title {
+	//margin: 0 auto;
+	text-align: center;
 	margin: .83em 0;
 	font-size: 1.4em;
 }
@@ -395,7 +398,9 @@ textarea {
 }
 
 .post-content,.comment-content {
-	line-height: 1.5;
+	font-size: 18px;
+	margin-top: 15px;
+	line-height: 2;
 	word-wrap: break-word;
 }
 
@@ -641,9 +646,11 @@ img.alignright {
 
 /* index - 文章聚合 */
 .post-title {
-	margin: 0.5em 0;
+	margin: 0 auto;
+	//margin: 0.5em 0;
 }
 .post-title > a {
+	font-size: 26px;
 	font-weight: 400;
 	color: #444 !important;
 }
@@ -664,6 +671,11 @@ img.alignright {
 	/* letter-spacing: 5px; */
 }
 .more {
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	font-size: 90%;
 	font-size: 80%;
 	margin: auto;
 	display: block;
@@ -686,10 +698,12 @@ img.alignright {
 
 /* 文章 */
 .post-title {
+	margin-top: 4px;
 	font-size: 20px;
 }
 .post-meta {
-	margin-top: 0px !important;
+	margin-top: 14px !important;
+	text-align: center;
 }
 .post-title-atpage {
 	font-size: 24px;
